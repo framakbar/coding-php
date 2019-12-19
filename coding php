@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>if</title>
+<?php
+$nilai=80;
+if($nilai > 60)
+echo "nilai $nilai, lulus";
+?>
+</head>
+</html>
